@@ -4,6 +4,22 @@ import io.reactivex.Observable
 import io.reactivex.rxkotlin.subscribeBy
 import io.reactivex.rxkotlin.toObservable
 
+/*출력값
+일
+2
+3
+사
+오
+육
+7.7
+일
+2
+3
+사
+오
+육
+7.7
+Done!*/
 
 fun main(args: Array<String>){
     iterator()
